@@ -3,7 +3,7 @@
     
 <ul class="sidebar-panel nav">
     <li class="sidetitle">Основные</li>
-    <li><a href="/"><span class="icon color5"><i class="fa fa-arrow-left"></i></span>На сайт<span class="label label-default"><?=$goods_nums?></span></a></li>
+    <li><a href="/"><span class="icon color5"><i class="fa fa-arrow-left"></i></span>На сайт</a></li>
     <li><a href="#"><span class="icon color6"><i class="fa fa-cogs"></i></span>Настройки</a></li>
 </ul>
 
